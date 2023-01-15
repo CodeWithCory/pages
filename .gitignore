@@ -1,3 +1,9 @@
+
+# System files and folders
+**.DS_Store
+**__MACOSX/
+
+
 # Logs
 logs
 *.log
