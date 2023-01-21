@@ -1,8 +1,6 @@
 ---
 title: .md test
 ---
-<script src="../script.js"></script>
-<br/>:D<br/>:D<br/>:D<br/>:D<br/>:D<br/>:D<br/>:D
 
 [← Pages Home](../index.html)
 
