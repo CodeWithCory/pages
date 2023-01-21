@@ -1,5 +1,5 @@
 
-[← Pages | Home](../index.html)
+[← Pages Home](../index.html)
 
 # Markdown Test
 
