@@ -4,7 +4,10 @@ title: BB
 
 ---
 
-[← Pages Home](../index.html)
+[← Pages Home](..)
+[← Pages Home](../)
+[← Pages Home](../index)
+[← Pages Home](../index.md)
 
 # Markdown Test
 
