@@ -3,7 +3,7 @@ title: .md test
 ---
 <!-- <script src="../../main.js"></script> -->
 
-[← Pages Home](../index.html)
+[← Pages Home](../index.md)
 
 # Markdown Test
 
