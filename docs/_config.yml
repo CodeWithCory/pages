@@ -1,16 +1,9 @@
-############################
-# --- Required options --- #
-############################
 
-# Name of website
-title: Code With Cory
+name: Code With Cory
 
-# Your name to show in the footer
-author: Cory Leigh Rahman
+# Favicon
+avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bash_Logo_Favicon_Colored.svg/120px-Bash_Logo_Favicon_Colored.svg.png"
+round-avatar: false
 
-navbar-links:
-  Home: "index"
-  Test:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Test: "https://corylr.github.io/pages/"
+
+
