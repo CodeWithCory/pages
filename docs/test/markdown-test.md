@@ -1,13 +1,9 @@
 ---
-name: AA
-title: BB
-
+title: .md test
 ---
+<script src=../script.js></script>
 
-[← Pages Home](..)
-[← Pages Home](../)
-[← Pages Home](../index)
-[← Pages Home](../index.md)
+[← Pages Home](../index.html)
 
 # Markdown Test
 

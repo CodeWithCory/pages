@@ -1,6 +1,5 @@
 ---
-name: Home
-title: null
+title: Home
 ---
 
 # Pages
