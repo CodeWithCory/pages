@@ -1,6 +1,7 @@
 ---
 title: .md test
 ---
+<script src="../main.js"></script>
 
 [← Pages Home](../index.html)
 
