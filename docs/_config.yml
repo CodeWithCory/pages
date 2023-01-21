@@ -1,0 +1,16 @@
+############################
+# --- Required options --- #
+############################
+
+# Name of website
+title: Code With Cory
+
+# Your name to show in the footer
+author: Cory Leigh Rahman
+
+navbar-links:
+  Home: "index"
+  Test:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Test: "https://corylr.github.io/pages/"

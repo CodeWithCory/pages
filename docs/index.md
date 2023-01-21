@@ -1,7 +1,10 @@
 
+
+
 # Pages
 
 Miscellaneous sites hosted with GitHub Pages
 
-Sample URL - https://corylr.github.io/pages/PATH/FROM/DOCS/FOLDER
+GitHub Repository: [https://github.com/CoryLR/pages](https://github.com/CoryLR/pages)
+
 
